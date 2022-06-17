@@ -12,3 +12,19 @@ ul{
     justify-content: space-between;
     padding: 10px;
 }
+
+.mainButton{
+    background-color: purple;
+    color: white;
+    border: 0px;
+    padding: 5px 10px;
+    border-radius: 8px;
+    font-weight: bolder;
+}
+
+.mainButton:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px blue;
+    transform: scale(1.3)
+    
+}
